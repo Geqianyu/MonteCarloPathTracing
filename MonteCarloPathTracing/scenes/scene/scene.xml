@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<camera type="perspective">
+	<eye value="0.0, 5.0, 13.68"/> 
+	<lookat value="0.0, 5.0, 12.68"/> 
+	<up value="0, 1, 0"/>
+	<fovy value="60"/>
+	<width value="800"/>
+	<height value="900"/>
+</camera>
+<light mtlname="Light" radiance="50.000000, 50.000000, 50.000000"/>
